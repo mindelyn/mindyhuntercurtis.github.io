@@ -1,0 +1,14 @@
+{
+    "title": "Mindy Hunter Curtis",
+    "name": "mindyhuntercurtis",
+    "version": "0.1.0",
+    "scripts": {
+        "start": "http-server"
+    },
+    "description": "A grayscale one page HTML theme for Bootstrap.",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:mindelyn/mindyhuntercurtis.github.io.git"
+    },
+    "license": "UNLICENSED"
+}
